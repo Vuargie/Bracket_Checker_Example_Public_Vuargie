@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bracket_Checker_Example_Public", "Bracket_Checker_Example_Public\Bracket_Checker_Example_Public.csproj", "{CE5370E5-C9F1-40D6-B790-83292FCBCC60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bracket_Checker_Example_Public.Tests", "Bracket_Checker_Example_Public.Tests\Bracket_Checker_Example_Public.Tests.csproj", "{AD80EDDE-0CA0-4D43-B517-A21D2FB22CD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{CE5370E5-C9F1-40D6-B790-83292FCBCC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE5370E5-C9F1-40D6-B790-83292FCBCC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE5370E5-C9F1-40D6-B790-83292FCBCC60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD80EDDE-0CA0-4D43-B517-A21D2FB22CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD80EDDE-0CA0-4D43-B517-A21D2FB22CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD80EDDE-0CA0-4D43-B517-A21D2FB22CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD80EDDE-0CA0-4D43-B517-A21D2FB22CD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
