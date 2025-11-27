@@ -12,9 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6.0.0
 
-      - name: dotnet-format
-        uses: xt0rted/dotnet-format@v1.2.0
-
       - name: CodeQL Bundle
         uses: advanced-security/codeql-bundle-action@v1.1.0
 
